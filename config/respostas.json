@@ -1,0 +1,10 @@
+{
+    "teste1": "teste",
+ 
+    "teste2": "teste",
+    
+  "explicacao": "Olá, vou explicar como funciona a autoresposta. Cada entrada, como 'teste1', está entre aspas e ao lado tem 'teste'. Isso significa que quando alguém em algum grupo ou no privado menciona 'teste1', receberá como resposta a palavra 'teste'. Esse padrão pode ser usado tanto em grupos, como no pv. Se desejar adicionar mais respostas, basta inserir novos nomes e suas respostas correspondentes."
+}
+
+
+
