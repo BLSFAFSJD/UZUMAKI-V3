@@ -33,3 +33,7 @@ cd /sdcard/UZUMAKI-V3
 ```
 sh start.sh
 ```
+
+### Agradecimentos
+
+Obrigado por visitar meu perfil!
