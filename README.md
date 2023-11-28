@@ -36,7 +36,7 @@ sh start.sh
 ### Suporte
 
 - Para obter suporte ou adquirir a versão editável, [entre em contato aqui](https://wa.me/557999275667)
-- 
+
 ### Agradecimentos
 
 - Obrigado por visitar meu perfil!
