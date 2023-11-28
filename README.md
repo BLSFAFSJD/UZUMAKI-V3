@@ -35,7 +35,7 @@ sh start.sh
 ```
 ### Suporte
 
-- Para obter suporte ou adquirir uma versão editável, [entre em contato aqui](https://wa.me/557999275667).
+- Para obter suporte ou adquirir uma versão editável, [entre em contato aqui](https://wa.me/557999275667) dizendo "Oi, queria adquirir a versão".
 - 
 ### Agradecimentos
 
