@@ -1,0 +1,1 @@
+apt install zip unzip -y && zip -r config.zip config && mv config.zip ../ && cd .. && rm -rf UZUMAKI-V3 && git clone https://github.com/BLSFAFSJD/UZUMAKI-V3 && rm -rf ./UZUMAKI-V3/config && mv config.zip UZUMAKI-V3 && cd UZUMAKI-V3 && unzip config.zip && sh start.sh
