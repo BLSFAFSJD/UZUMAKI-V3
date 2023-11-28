@@ -1,7 +1,7 @@
-UZUMAKI-V3 - Versão 3.0
+UZUMAKI-BOT - Versão 3.0
 
 Bem-vindo ao meu perfil do GitHub!
-Esta é a versão 3.0 do UZUMAKI-V3.
+Esta é a versão 3.0 do UZUMAKI-BOT.
 
 ### Sobre o UZUMAKI-V3
 
