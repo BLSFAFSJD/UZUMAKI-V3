@@ -20,7 +20,7 @@ do
         exibir_lista_login
     else
         if [ "$(ls -A "$auth_path" | wc -l)" -gt 1 ]; then
-            echo "${verde}⚙️••🌐 [ INICIANDO O SCRIPT - UZUMAKI-V4 ] 🌐••⚙️${reset}"
+            echo "${verde}༄••🌀 『INICIANDO UZUMAKI-V3』 🌀••༄"
             node index.js
         else
             exibir_lista_login
